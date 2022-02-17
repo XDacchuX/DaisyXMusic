@@ -7,7 +7,7 @@
     "voicechat", 
     "telegram"
   ],
-  "repository": "https://github.com/XDacchuX/Kittu2Music",
+  "repository": "https://github.com/XDacchuX/DaisyXMusic",
   "stack": "container",
   "buildpacks": [
    {
